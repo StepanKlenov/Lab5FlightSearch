@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lab5FlightSearch"
+rootProject.name = "Lab5"
 include(":app")
