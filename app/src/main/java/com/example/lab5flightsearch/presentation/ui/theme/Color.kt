@@ -1,4 +1,4 @@
-package com.example.lab5flightsearch.ui.theme
+package com.example.lab5flightsearch.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
